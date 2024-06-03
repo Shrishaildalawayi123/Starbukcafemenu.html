@@ -1,0 +1,53 @@
+    body{
+        font-family: sans-serif;
+        background-image: url(starbucks.jpg);
+            height: 100vh;
+            background-size: cover;
+            background-position: center;
+            padding:20px;
+            }   
+        h1{
+            margin-top: 0px;
+            font-size:40px;
+            margin-bottom: 18px;}
+        h2{font-size:30px;}
+    h1, h2,p{ text-align: center;} 
+        h1, h2{font-family: Impact, serif;}
+        hr{height:3px; 
+            background-color: rgba(1, 24, 6, 0.61); 
+            border-color: rgba(1,24,6,0.61); 
+            height:2px;
+            }
+        .menu1 {       
+            width: 80%;
+            margin-left: auto; 
+            margin-right: auto;
+            padding: 20px;
+            max-width:5000px;
+            background-color: rgba(21, 185, 21, 0.74);}
+        .item p{display: inline-block;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            font-size: 18px;}
+        .flevor,.dessert{text-align: left; width: 75%;}
+        .price
+            {text-align: right; width: 25%;}
+        .address{margin-bottom: 5px;}
+        .bottom-line{margin-top: 5px;}
+        .established{font-style:italic} 
+        .img{ height: 25px;
+            display: block;
+            margin-left:auto;
+            margin-right:auto;}
+        .img1{ height: 35px;
+            display:block;
+            margin-left: auto;
+            margin-right: auto; }
+            /*FOOTER*/
+            footer{font-size: 14px;}
+        a{color: black;}
+        a:visited{color: black;}
+        a:hover{color:green;}
+        a:active{color:green;}
+        
+        
